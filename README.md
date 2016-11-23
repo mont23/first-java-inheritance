@@ -1,2 +1,2 @@
-# first-java-swing
-Stock control with java swing
+# first-java-inheritance
+Stock control with java
